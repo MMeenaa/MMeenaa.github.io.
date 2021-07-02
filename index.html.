@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    <title>Theremena</title>
+    <meta charset="utf-8" />
+	  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	  <!-- link the webpage's stylesheet -->
+	  <link rel="stylesheet" href="/style.css" />
+
+	  <!-- link the webpage's JavaScript file -->
+	  <script src="/script.js" defer></script>
+
+  </head>
+   <!--nav -->
+  <nav>
+     <ul>
+      <li>
+        <a href="index.html">Home</a>
+      </li>
+      <li>
+        <a href="Resource.html">Resource</a>
+      </li>
+      <li>
+        <a href="Take Action.html">Take Action</a>
+      </li>
+     </ul>
+   </nav>
+   <!--title image -->
+   <header>
+   <h1>"We are not viruses"</h1>
+    </header>
+
+
+  <body>
+    <!--image -->
+    <div class="flexboxContainer">
+      <div class="flexItem">
+    <img id="home" src="assets/protest.jpeg">
+      </div>
+    
+    
+    <!--description-->
+    <div class="flexItem">
+    <p class="homep"> Hate crimes against Asian-American have been rising since the pandemic. The constant disinformation from the media and leadership have added more fuel to the fire as a result Asian-Americans have been blamed for the pandemic and are seen as the carrier of this virus. This website aims to educate and provide resources to counter the misinformation and bring more light to this issue.   </p>
+     </div>
+
+    </div>
+
+    <!--Fact Generator -->
+   <div class="oneflexboxContainer">
+     <div class="oneflexItem">
+     <h3 id="gen">Fact Generator</h3>
+
+     <p id="in">Click the "fact" button for facts regarding how the pandemic have impacted Asian-Americans.</p> 
+
+     <button id="mybutton">FACT</button>
+     <p id="fact"></p>
+
+     </div>
+
+
+     <a id= "source" href="https://www.csusb.edu/sites/default/files/FACT%20SHEET-%20Anti-Asian%20Hate%202020%20rev%203.21.21.pdf">Source: csusb.edu</a>
+     </div>
+  </body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<title>Theremena</title>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+	<!-- link the webpage's stylesheet -->
+	<link rel="stylesheet" href="/style.css" />
+
+	<!-- link the webpage's JavaScript file -->
+	<script src="/script.js" defer>
+
+	</script>
+
+</head>
+
+
+<!--navigation -->
+<nav>
+	<ul>
+		<li>
+			<a href="index.html">Home</a>
+		</li>
+		<li>
+			<a href="Resource.html">Resource</a>
+		</li>
+		<li>
+			<a href="Take Action.html">Take Action</a>
+		</li>
+	</ul>
+</nav>
+<!--navigation -->
+
+<!--Title-->
+
+<header>
+	<h1>Awareness</h1>
+</header>
+
+<body>
+  <!--Overview-->
+	<p id="A">Hate crimes against Asians have increased within the US since the start of the pandemic. Asian Americans have
+		been the recipient of “othering,” ridicule, and cruelty. Many Asian Americans have begun speaking out on their experience
+		and how this sudden spike of hate crime against Asians is impacting them and how they nagivate through the world.</p>
+</body>
+
+<!--three clickable images -->
+<main>
+	<div class="twoflexboxContainer">
+		<!--data-->
+		<div class="twoflexboxContainer">
+			<div class="con">
+				<a href="https://www.csusb.edu/sites/default/files/FACT%20SHEET-%20Anti-Asian%20Hate%202020%20rev%203.21.21.pdf">
+					<img  class="twoflexitem" src="assets/data.png" alt= "A histogram styled data set, that is increasing as you go further down the x-axis.">
+         </a>
+         </div>
+       </div>
+       
+       <!--plan-->
+       <div class="twoflexboxContainer">
+         <div class="con">
+         <a href="https://www.npr.org/2021/05/20/998599775/biden-to-sign-the-covid-19-hate-crimes-bill-as-anti-asian-american-attacks-rise">
+         <img class="twoflexitem" src="assets/plan.png" alt= "A illustration of a paper and a pencil.">
+         </a>
+         </div>
+       </div>
+
+       <!--thoughts -->
+       <div class="twoflexboxContainer" >
+         <div class="con">
+         <a href="https://www.pbs.org/newshour/show/asian-american-community-battles-surge-in-hate-crimes-stirred-from-covid-19">
+         <img class="twoflexitem" src="assets/Think.png" alt= "A thinking cloud.">
+         </a>
+       </div>
+
+       </div>
+
+       </div>
+
+     
+
+      <!--Description for the three clickable pictures-->
+     </main>
+
+     <div class="des">
+
+        <div class="mi">
+        <h3> Data on Asian hate Crimes </h3>
+        <p> click on the image for more info</p>
+       </div>
+
+       <div class="twomi">
+       <h3> What solution have been implemented? </h3>
+        <p> click on the image for more info</p>
+       </div>
+
+       <div class="threemi">
+       <h3> How are Asian Americans impacted by this? </h3>
+        <p> click on the image for more info</p>
+       </div>
+       </div>
+       
+
+      <!--stories-->
+     
+     <div>
+      <center><h2> Stories </h2>
+      <p> click on the images to hear their stories. </p>
+     </div>
+  
+     <div class="stories">
+       
+      <!--Noel Quintana-->
+  
+         <div class="fiveflexboxContainer" >
+         <div class="fivecon">
+         <a href="https://people.com/crime/filipino-american-man-recounts-brutal-attack-with-box-cutter-on-n-y-c-subway-nobody-helped/">
+         <img class="fiveflexitem" src="assets/RNQ.png" alt= "A picture of Noel Quintana smiling.">
+         </a>
+       </div>
+
+       </div>
+       
+       <!--Medical worker-->
+  
+        <div class="fiveflexboxContainer" >
+         <div class="fivecon">
+         <a href="https://www.ktvu.com/news/slur-hurled-at-filipina-medical-worker-shoved-to-ground-in-los-gatos-hate-crime">
+         <img class="fiveflexitem" src="assets/Nurse.png" alt= "A medical clipboard with a mask.">
+         </a>
+       </div>
+
+       </div>
+
+
+       </div>
+       
+       <!--stories description-->
+       <div class="details">
+        <div class="DNQ">
+        <h3> Noel Quintana </h3>
+        <p> The man who was slashed in the face</p>
+       </div>
+
+       <div class="DNurse">
+       <h3> Filipino medical employee </h3>
+        <p>The Filipino women who was shoved and received racial slurs.</p>
+       </div> 
+
+         </div>
+
+      
+      <!--Resources to counter misinformation-->
+
+      <div>
+      <center><h2> Resources to counter Misinformation </h2>
+      <p> click on the image below to educate yourself further or provide it to someone who may be disinform. </p>
+     </div>
+
+      <div class="misinfo">
+       
+      <div class="sixflexboxContainer" >
+         <div class="sixcon">
+         <a href="http://criminaljustice.cityofnewyork.us/wp-content/uploads/2020/04/COVID-ED-Resources-4.13.pdf">
+         <img class="sixflexitem" src="assets/Info.png" alt= "A paper with the word 'info' in the middle of it.">
+         </a>
+       </div>
+       </div>
+
+      </div>
+      
+      
+      
+   <!DOCTYPE html>
+<html>
+  <head>
+    
+    <title>Theremena</title>
+    <meta charset="utf-8" />
+	  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	  <!-- link the webpage's stylesheet -->
+	  <link rel="stylesheet" href="/style.css" />
+
+	  <!-- link the webpage's JavaScript file -->
+	  <script src="/script.js" defer></script>
+
+  </head>
+  
+  
+  
+  
+   <!--nav -->
+     <nav>
+     <ul>
+      <li>
+        <a href="index.html">Home</a>
+      </li>
+      <li>
+        <a href="Resource.html">Resource</a>
+      </li>
+      <li>
+        <a href="Take Action.html">Take Action</a>
+      </li>
+     </ul>
+     </nav>
+    
+
+    <!--Title -->
+     <header>
+     <h1>How To Help</h1>
+      </header>
+  
+  
+    <!--Petition one-->
+   <body>
+     <center><div class="ourflexcontainer">
+     <h3 class="ourflexitem">End Hate Crimes Against Asian Americans </h3>
+     </div>
+
+     <div class="fourflexcontainer">
+       <p class="fourflexitem"> This petition aims to reduce hate crimes against the AAPI population. The petition currently has 435,670 signatures, help them reach their goal of 500,000 by clicking the button below.</p>
+       </div>
+     <center><a href="https://www.change.org/p/governor-andrew-cuomo-end-hate-crimes-against-asian-americans">
+     <button class="sign"> Sign This petition </button>
+     </a>
+
+     <!--petition two -->
+     <center><div class="sevenflexcontainer">
+       <h3 class="sevenflexitem"> Stop COVID-19 disinformation. Stop Anti-Asian Violence</h3>
+       </div>
+
+     <div class="sevenflexcontainer">
+     <p class="sevenflexitem">This petition aims to cease disinformation regarding COVID-19 to prevent future hate crimes against Asian Americans from occurring. The petition currently have over 18,000 signature, please help them reach their goal of 25,600 by signing your name below. </p>
+     </div>
+     
+     <center><a href="https://action.18mr.org/stop-antiasian-violence/">
+     <button class="sign"> Sign This petition </button>
+     </a>
+
+      <!--Donation-->
+      <center><div class="eightflexcontainer">
+       <h3 class="eightflexitem"> 68 different ways to donate to the AAPI population to support them</h3>
+       </div>
+
+     <div class="eightflexcontainer">
+     <p class="eightflexitem">Here are 68 different ways to donate to the Asian communities to help victims who suffered Asian hate crimes, help businesses that suffered during the pandemic, etc. </p>
+     </div>
+     
+     <center><a href="https://nymag.com/strategist/article/where-to-donate-to-help-asian-communities-2021.html">
+     <button class="sign"> Donate Here </button>
+     </a>
+
+     </body> 
+      
+        <!--Spread Awareness-->
+      <center><div class="nineflexcontainer">
+       <h3 class="nineflexitem"> Spread Awareness</h3>
+       </div>
+
+     <div class="nineflexcontainer">
+     <p class="nineflexitem"> Use your social media platforms as a vehicle for change; spread awareness, educate others and tackle misinformation and disinformation.  </p>
+     </div>
+     
+     <!--social media -->
+     <center><div class="sm">
+       
+       <a href="https://www.instagram.com/accounts/login/">
+     <button class="sign"> Instagram </button>
+     </a>
+
+     <a href="https://twitter.com/login?lang=en">
+     <button class="sign"> Twitter </button>
+     </a>
+
+     <a href="https://www.tumblr.com/login">
+     <button class="sign"> Tumblr </button>
+     </a>
+
+     </div>
+
+     </body> 
